@@ -33,11 +33,11 @@
 3.  打开命令行（终端/命令提示符），导航到该文件所在的目录。
 4.  输入以下命令来运行程序：
     ```bash
-    python game_time_analysis.py
+    python 沉迷游戏判断.py
     ```
     或者
     ```bash
-    python air_quality_index.py
+    python 空气质量检测.py
     ```
 
 ---
